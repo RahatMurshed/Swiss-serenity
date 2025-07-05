@@ -1,0 +1,24 @@
+.logomargin{
+
+    margin: 100px;
+}
+.bgimage{
+    background-image:url(Images/Sun.jpg);
+    height: 900px;
+    width: 100%;
+    background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+/* .pad{ */
+    padding: 00px;
+
+}
+/* .overlay{ */
+    background: rgba(0, 0, 0, 0.1);
+}
+.first{
+    text-align: center;
+    text-size-adjust: 50px;
+}
